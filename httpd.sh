@@ -1,2 +1,2 @@
-python -m http.server --cgi 8088
+python -m http.server --cgi 80
 
