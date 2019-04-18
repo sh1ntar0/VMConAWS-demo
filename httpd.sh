@@ -1,2 +1,2 @@
-python -m http.server --cgi 80
+python3.6 -m http.server --cgi 80
 
